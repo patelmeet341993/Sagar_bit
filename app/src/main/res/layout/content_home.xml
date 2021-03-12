@@ -60,7 +60,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:text="Developed by Hiren | Ravi."
+        android:text="Developed by BIT"
         android:textColor="@color/black_off"
         android:padding="5dp"
         android:id="@+id/dev"
@@ -77,13 +77,12 @@
 
 
 
-        <ImageView
+        <Button
+            android:layout_marginTop="50dp"
             android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:id="@+id/img"
-            android:src="@drawable/icon_image"/>
-
+            android:layout_height="50dp"
+            android:id="@+id/btn"
+            android:text="Start"></Button>
 
             <TextView
                 android:layout_width="match_parent"
@@ -92,9 +91,7 @@
                 android:id="@+id/txt"
                 android:padding="10dp"
                 android:layout_margin="10dp"
-                android:textSize="20dp"
-                android:minHeight="200dp"
-                android:scrollbars = "vertical"
+                android:gravity="center"
                 android:background="@drawable/border_orange6"/>
 
     </LinearLayout>

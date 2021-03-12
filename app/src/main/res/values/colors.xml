@@ -5,8 +5,8 @@
     <color name="simpletooltip_arrow">@color/md_white</color>
     <color name="blackss">#a8a8a8</color>
 
-    <color name="colorPrimary">#FFC107</color>
-    <color name="colorPrimaryDark">#FFC107</color>
+    <color name="colorPrimary">#e78200</color>
+    <color name="colorPrimaryDark">#e78200</color>
     <color name="colorAccent">#606d8b</color>
 
 

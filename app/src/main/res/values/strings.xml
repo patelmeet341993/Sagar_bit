@@ -1,7 +1,7 @@
 <resources>
     <string name="clarifai_api_key">00023d37c90d49e29846b59faea4c44c</string>
 
-    <string name="app_name">Itm TextApp</string>
+    <string name="app_name">Blood Panitration</string>
 
     <string name="error_external_storage_permission_not_granted">You must accept this permission so we can upload your images!</string>
 

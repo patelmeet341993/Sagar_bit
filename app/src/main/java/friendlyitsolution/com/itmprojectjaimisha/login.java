@@ -63,7 +63,8 @@ public class login extends AppCompatActivity {
             public void onClick(View view) {
                 if (!etname.getText().toString().equals("") && !etphone.getText().toString().equals("")) {
                     pd.show();
-                    startPhoneNumberVerification(etphone.getText().toString());
+                   startPhoneNumberVerification(etphone.getText().toString());
+                   // signup();
                 }
                 if (etphone.equals("")) {
                     etphone.setError("please enter mobile no");
