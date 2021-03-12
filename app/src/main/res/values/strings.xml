@@ -1,0 +1,24 @@
+<resources>
+    <string name="clarifai_api_key">00023d37c90d49e29846b59faea4c44c</string>
+
+    <string name="app_name">Itm TextApp</string>
+
+    <string name="error_external_storage_permission_not_granted">You must accept this permission so we can upload your images!</string>
+
+    <string name="error_while_contacting_api">Error while contacting API</string>
+    <string name="no_results_from_api">API did not return any results</string>
+
+    <string name="upload_image_hint">Click the button in the bottom-right corner to upload an image!</string>
+    <string name="title_activity_main">CamShot</string>
+    <string name="title_activity_main2">CamShot</string>
+    <string name="title_activity_login">login</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_activity_profile">profile</string>
+    <string name="title_activity_text_recognizattion">textRecognizattion</string>
+    <string name="title_activity_editpage">Editpage</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_pdfopen">pdfopen</string>
+    <string name="title_activity_image_label">ImageLabel</string>
+    <string name="title_activity_newhome">newhome</string>
+</resources>

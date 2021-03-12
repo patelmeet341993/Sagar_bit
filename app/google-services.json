@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "546161506830",
+    "firebase_url": "https://hinditext-36a50.firebaseio.com",
+    "project_id": "hinditext-36a50",
+    "storage_bucket": "hinditext-36a50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546161506830:android:9270bf05c93cd368a19a5f",
+        "android_client_info": {
+          "package_name": "friendlyitsolution.com.itmprojectjaimisha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546161506830-p1kq27bbkiskoebvbso2dh36hv3e210n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "friendlyitsolution.com.itmprojectjaimisha",
+            "certificate_hash": "7b6f12effff0f0393c77106e475656c3eeb7628d"
+          }
+        },
+        {
+          "client_id": "546161506830-pnieo001mu6hl0m26sstk83354agr5jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA27rjtKTYJczGB_D4vEZ-6bj9Nup2FTh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546161506830-pnieo001mu6hl0m26sstk83354agr5jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
